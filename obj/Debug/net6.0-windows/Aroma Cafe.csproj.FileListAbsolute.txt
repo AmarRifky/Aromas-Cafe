@@ -1,0 +1,58 @@
+C:\Users\mrar2\source\repos\Aroma Cafe\bin\Debug\net6.0-windows\Aroma Cafe.exe
+C:\Users\mrar2\source\repos\Aroma Cafe\bin\Debug\net6.0-windows\Aroma Cafe.deps.json
+C:\Users\mrar2\source\repos\Aroma Cafe\bin\Debug\net6.0-windows\Aroma Cafe.runtimeconfig.json
+C:\Users\mrar2\source\repos\Aroma Cafe\bin\Debug\net6.0-windows\Aroma Cafe.dll
+C:\Users\mrar2\source\repos\Aroma Cafe\bin\Debug\net6.0-windows\Aroma Cafe.pdb
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.csproj.AssemblyReference.cache
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma_Cafe.Form1.resources
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma_Cafe.Properties.Resources.resources
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.csproj.GenerateResource.cache
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.AssemblyInfoInputs.cache
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.AssemblyInfo.cs
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.csproj.CoreCompileInputs.cache
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.dll
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\refint\Aroma Cafe.dll
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.pdb
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.genruntimeconfig.cache
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\ref\Aroma Cafe.dll
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma_Cafe.Form2.resources
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma_Cafe.Form3.resources
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma_Cafe.Form4.resources
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma_Cafe.Form5.resources
+C:\Users\mrar2\source\repos\Aroma Cafe\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mrar2\source\repos\Aroma Cafe\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mrar2\source\repos\Aroma Cafe\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mrar2\source\repos\Aroma Cafe\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mrar2\source\repos\Aroma Cafe\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mrar2\source\repos\Aroma Cafe\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mrar2\source\repos\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.csproj.CopyComplete
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\bin\Debug\net6.0-windows\Aroma Cafe.exe
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\bin\Debug\net6.0-windows\Aroma Cafe.deps.json
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\bin\Debug\net6.0-windows\Aroma Cafe.runtimeconfig.json
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\bin\Debug\net6.0-windows\Aroma Cafe.dll
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\bin\Debug\net6.0-windows\Aroma Cafe.pdb
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.csproj.AssemblyReference.cache
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma_Cafe.Form1.resources
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma_Cafe.Form2.resources
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma_Cafe.Form3.resources
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma_Cafe.Form4.resources
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma_Cafe.Form5.resources
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma_Cafe.Properties.Resources.resources
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.csproj.GenerateResource.cache
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.AssemblyInfoInputs.cache
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.AssemblyInfo.cs
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.csproj.CoreCompileInputs.cache
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.csproj.CopyComplete
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.dll
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\refint\Aroma Cafe.dll
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.pdb
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\Aroma Cafe.genruntimeconfig.cache
+C:\Users\amarr\source\repos\Aroma Cafe\Aroma Cafe\obj\Debug\net6.0-windows\ref\Aroma Cafe.dll
